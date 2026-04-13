@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Data & Cache
+f1_cache/
+data/raw_data.csv
+data/features.csv
+
+# Models (large files)
+model/podium_model.pkl
+model/win_model.pkl
+model/multiclass_model.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
