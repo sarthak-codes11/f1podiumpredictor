@@ -1,3 +1,22 @@
+---
+language: en
+license: mit
+tags:
+- machine-learning
+- sports-analytics
+- formula-1
+- scikit-learn
+- streamlit
+- reinforcement-learning
+datasets:
+- fastf1
+metrics:
+- accuracy
+- f1
+- roc-auc
+---
+pipeline_tag: tabular-classification
+
 # F1 Race Prediction & Visualization System
 
 A full-stack machine learning project that predicts Formula 1 podium 
